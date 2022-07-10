@@ -1,4 +1,4 @@
-package Not_Ortalamasý_Hesaplayan_Program;
+package Not_Ortalamasi_Hesaplayan_Program;
 
 import java.util.Scanner;
 

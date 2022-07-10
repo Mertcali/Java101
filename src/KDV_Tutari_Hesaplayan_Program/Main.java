@@ -1,4 +1,4 @@
-package KDV_Tutarý_Hesaplayan_Program;
+package KDV_Tutari_Hesaplayan_Program;
 
 import java.util.Scanner;
 
