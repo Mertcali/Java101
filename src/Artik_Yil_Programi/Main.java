@@ -32,7 +32,19 @@ public class Main {
 		}else {
 			System.out.println("" +artikYil + " Bir Artýk Yýl Deðildir");
 		}
-	
+		int i=1, j=1;
+		while(i<3)
+		{
+		  do
+		  {
+		    System.out.print(j + ",");
+		    j++;
+		  }while(j<4);
+		  i++;
+		}
+
 	}
+	
+	
 
 }
